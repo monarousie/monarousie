@@ -9,7 +9,7 @@ you can call me **gözde** or **tera**
 </td>
 <td>
 
-CS student learning cybersecurity through **Hack The Box** and building tiny indie games with **Ren'Py** in my free time. I love writing code, breaking things, and then building them back up 🌸
+CS student exploring cybersecurity and indie game dev 🌸
 
 **languages** <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
