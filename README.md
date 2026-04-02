@@ -17,7 +17,9 @@ CS student exploring cybersecurity and indie game dev 🌸
 ![RenPy](https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat-square&logo=renpy&logoColor=white)
 
 **tools** <br>
-[![HTB Nmap Badge](https://academy.hackthebox.com/achievement/badge/2f7d1515-2e95-11f1-9254-bea50ffe6cb4)](https://academy.hackthebox.com/achievement/badge/2f7d1515-2e95-11f1-9254-bea50ffe6cb4)
+<img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" width="50"/>
+<br> Nmap
+
 
 </td>
 </tr>
