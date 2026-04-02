@@ -18,7 +18,7 @@ CS student exploring cybersecurity and indie game dev 🌸
 
 **tools** <br>
 <img src="https://academy.hackthebox.com/storage/badges/the-eye-that-sees-all.png" width="50"/>
-<br> Nmap
+<br><a href="https://academy.hackthebox.com/achievement/badge/2f7d1515-2e95-11f1-9254-bea50ffe6cb4">Nmap</a>
 
 
 </td>
