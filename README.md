@@ -17,7 +17,7 @@ CS student exploring cybersecurity and indie game dev 🌸
 ![RenPy](https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat-square&logo=renpy&logoColor=white)
 
 **tools** <br>
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white)
+![Nmap](https://academy.hackthebox.com/achievement/badge/2f7d1515-2e95-11f1-9254-bea50ffe6cb4)
 
 </td>
 </tr>
