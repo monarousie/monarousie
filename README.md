@@ -34,3 +34,7 @@
   </table>
 </div>
 
+<div align="center">
+<p style={textShadow:'#ffffff 0px 0px 30px'}> have a quick look to my space -> <a href="link" target="_blank"> click! cliCK! CLICK! </a></p> 
+</div>
+
